@@ -20,6 +20,7 @@
     NSLog(@"0000");
     NSLog(@"0001");
     NSLog(@"0002");
+    NSLog(@"0003");
     return YES;
 }
 
